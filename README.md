@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently studing Computer Science at FCIS MU 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently working on Flutter development. 
 
 - 💬 Ask me about **dart programming / Html /css/ python**
 
