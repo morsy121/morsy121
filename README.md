@@ -7,9 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/morsy_hashisish" target="blank"><img src="https://img.shields.io/twitter/follow/morsy_hashisish?logo=twitter&style=for-the-badge" alt="morsy_hashisish" /></a> </p>
 
+- 🌱 I’m currently studing Computer Science at FCIS MU 
+
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **dart programming / Html /css/ python**
+
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+
+- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more!
 
 - 📫 How to reach me **morsyhashish123@gmail.com**
 
