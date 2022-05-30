@@ -4,9 +4,9 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=morsy121&label=Profile%20views&color=0e75b6&style=flat" alt="morsy121" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morsy121" alt="morsy121" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/morsy_hashisish" target="blank"><img src="https://img.shields.io/twitter/follow/morsy_hashisish?logo=twitter&style=for-the-badge" alt="morsy_hashisish" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morsy121" alt="morsy121" /></a> </p> -->
+<!-- 
+<p align="left"> <a href="https://twitter.com/morsy_hashisish" target="blank"><img src="https://img.shields.io/twitter/follow/morsy_hashisish?logo=twitter&style=for-the-badge" alt="morsy_hashisish" /></a> </p> -->
 
 - 🌱 I’m currently studing Computer Science at FCIS MU 
 
