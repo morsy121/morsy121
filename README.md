@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently working on Flutter development. 
 
-- 💬 Ask me about **dart programming / Html /css/ python**
+- 💬 Ask me about **dart programming / Html /css/ python / Flutter **
 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
