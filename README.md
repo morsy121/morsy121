@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 <img align="center" src="https://avatars.githubusercontent.com/u/55841476?v=4" width="500" height="500"/>
 
-- 🌱 I’m currently studing Computer Science at FCIS MU 
+- 🌱 I’m Graduated From Computer Science at FCIS MU 
 
 - 🌱 I’m currently working on Flutter development. 
 
